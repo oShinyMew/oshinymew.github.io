@@ -1,3 +1,3 @@
-# It's literally my website, nothing to see here
+# js my website, get outta here
 
-https://netzsworth.github.io/
+https://oshinymew.github.io
